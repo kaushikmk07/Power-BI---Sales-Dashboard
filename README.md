@@ -2,33 +2,33 @@ This project is an interactive Retail Sales Analytics Dashboard built using Powe
 
 🔍 Key Insights Covered
 
-Total Revenue trend analysis (2016–2018)
+1. Total Revenue trend analysis (2016–2018)
 
-Monthly On-Time vs Delayed Orders tracking
+2. Monthly On-Time vs Delayed Orders tracking
 
-State-wise Sales Distribution using map visuals
+3. State-wise Sales Distribution using map visuals
 
-Top Product Categories by sales value
+4. Top Product Categories by sales value
 
-Customer Payment Method Preferences
+5. Customer Payment Method Preferences
 
-Product Review & Rating Analysis
+6. Product Review & Rating Analysis
 
 🛠 Tools Used
 
-Power BI Desktop
+* Power BI Desktop
 
-Power Query (ETL & Data Cleaning)
+* Power Query (ETL & Data Cleaning)
 
-DAX Measures
+* DAX Measures
 
 Data Modeling & Visualization
 
 📌 Dashboard Features
 
-Interactive slicers (State, Payment Type, Delivery Status)
+1- Interactive slicers (State, Payment Type, Delivery Status)
 
-Seasonal sales patterns and category-level insights
+2- Seasonal sales patterns and category-level insights
 
-Business-focused KPIs for decision-making
+3 - Business-focused KPIs for decision-making
 
