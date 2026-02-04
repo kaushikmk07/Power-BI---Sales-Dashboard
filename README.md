@@ -1,4 +1,10 @@
-This project is an interactive Retail Sales Analytics Dashboard built using Power BI to analyze e-commerce sales performance and customer behavior for Shopenest Store.
+📊 Retail Sales Analytics Dashboard (Power BI)
+
+🏬 Project Overview
+
+This project is an interactive Retail Sales Analytics Dashboard built using Power BI to analyze sales performance, customer behavior, delivery efficiency, and product trends for an e-commerce retail store (Shopenest Store).
+
+The dashboard helps stakeholders monitor key business metrics such as revenue growth, order delivery status, top-selling categories, payment preferences, and customer product ratings.
 
 🔍 Key Insights Covered
 
