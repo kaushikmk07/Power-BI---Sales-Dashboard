@@ -22,7 +22,7 @@ This project is an interactive Retail Sales Analytics Dashboard built using Powe
 
 * DAX Measures
 
-Data Modeling & Visualization
+* Data Modeling & Visualization
 
 📌 Dashboard Features
 
